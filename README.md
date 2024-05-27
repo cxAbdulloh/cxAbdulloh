@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdurahmonovabdulloh379@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Instagram: 11@xcheetah, Telegram: @AbdullohDeveloper</h3>
 <p align="left">
 </p>
 
