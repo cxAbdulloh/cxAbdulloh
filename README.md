@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **abdurahmonovabdulloh379@gmail.com**
+- 📫 How to reach me **JrDevops**
 
-<h3 align="left">Connect with me: Instagram: 11@xcheetah, Telegram: @AbdullohDeveloper</h3>
+<h3 align="left">Connect with me: Instagram: @11xcheetah, Telegram: @AbdullohDeveloper</h3>
 <p align="left">
 </p>
 
