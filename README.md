@@ -1,16 +1,49 @@
-<h1 align="center">Hi 👋, I'm Abdulloh Abdurahmonov</h1>
-<h3 align="center">Frontend Developer (React.js)</h3>
+# Hi, I’m Abdulloh Abdurahmonov 👋  
+**Frontend Developer (React.js | TypeScript learner)**  
 
-- 🔭 I’m currently working on [Tomato](https://github.com/cxAbdulloh/Tomato.git)
+---
 
-- 🌱 I’m currently learning **Typescript**
+## 🚀 About Me  
+I’m a passionate frontend developer with a focus on creating modern, responsive, and user-friendly web applications.  
+Currently working on projects using React.js, and actively learning and improving my TypeScript skills.
 
-- 💬 Ask me about **React, JavaScript**
+---
 
-- 📫 How to reach me **abdurahmonovabdulloh379@gmail.com**
+## 🌟 My Skills & Tools  
+Here are some of the languages, frameworks, and tools I work with:
 
-<p align="left">
-</p>
+- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Frameworks / Libraries**: React.js, Redux, Next.js  
+- **Styling & UI**: CSS Modules, SASS/SCSS, Tailwind CSS, Bootstrap  
+- **Tools**: Git & GitHub, Webpack, Babel, VS Code, Chrome DevTools  
+- **Other**: Responsive Design, RESTful APIs, Asynchronous Programming  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 📂 Featured Projects  
+Here are some of the repositories I’ve worked on:
+
+| Project Name        | Description                                               | Tech Stack           |
+|---------------------|-----------------------------------------------------------|----------------------|
+| **Tomato**          | A modern todo-application with advanced UI features.      | React.js, TypeScript |
+| **Fasten**          | Public project focused on … *(add your description)*      | JavaScript           |
+| **Skywings**        | Web app deployed on Vercel: [skywings-app.vercel.app](https://skywings-app.vercel.app/) | HTML, CSS, JS        |
+| **Surfing**         | … *(add description)*                                     | JavaScript           |
+| **ChillPro-Service**| My first “real” full-stack project.                       | JavaScript           |
+| **Santorini**       | … *(add description)*                                     | JavaScript           |
+
+---
+
+## 📫 How to Reach Me  
+- ✉️ Email: abdurahmonovabdulloh379@gmail.com  
+- 🌐 GitHub: [github.com/cxAbdulloh](https://github.com/cxAbdulloh)  
+- 🔗 LinkedIn: *(add your profile link if you have one)*  
+
+---
+
+## 📌 Let’s Connect  
+Feel free to check out my repositories, drop a star ⭐ if you like my work, and don’t hesitate to reach out if you’d like to collaborate or chat about frontend development!  
+
+---
+
+© {new Date().getFullYear()} Abdulloh Abdurahmonov — All rights reserved.
