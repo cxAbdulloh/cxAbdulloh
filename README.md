@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,git,github,vscode,vite" />
 </p>
 
+---
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/abdulloh" target="_blank">
     <img 
