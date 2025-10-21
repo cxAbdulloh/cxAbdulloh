@@ -1,49 +1,62 @@
-# Hi, I’m Abdulloh Abdurahmonov 👋  
-**Frontend Developer (React.js | TypeScript learner)**  
+<h1 align="center">👋 Hi, I'm Abdulloh Abdurahmonov</h1>
+<h3 align="center">Frontend Developer</h3>
+
+<p align="center">
+  <a href="mailto:abdurahmonovabdulloh379@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdurahmonovabdulloh379%40gmail.com-blue?logo=gmail&style=flat-square" />
+  </a>
+  <a href="https://github.com/cxAbdulloh">
+    <img src="https://img.shields.io/badge/GitHub-cxAbdulloh-black?logo=github&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulloh-abdurahmonov-149a3228b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdulloh%20Abdurahmonov-blue?logo=linkedin&style=flat-square" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me  
-I’m a passionate frontend developer with a focus on creating modern, responsive, and user-friendly web applications.  
-Currently working on projects using React.js, and actively learning and improving my TypeScript skills.
+I'm a passionate **Frontend Developer** who loves crafting clean, responsive, and user-friendly web interfaces.  
+Currently focused on **React.js** projects and leveling up my **TypeScript** skills.  
+
+I value **minimalism**, **code clarity**, and **pixel-perfect UI** design ✨  
 
 ---
 
-## 🌟 My Skills & Tools  
-Here are some of the languages, frameworks, and tools I work with:
+## 🧠 Skills & Tools  
 
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3  
-- **Frameworks / Libraries**: React.js, Redux, Next.js  
-- **Styling & UI**: CSS Modules, SASS/SCSS, Tailwind CSS, Bootstrap  
-- **Tools**: Git & GitHub, Webpack, Babel, VS Code, Chrome DevTools  
-- **Other**: Responsive Design, RESTful APIs, Asynchronous Programming  
+**Languages:**  
+HTML5, CSS3, JavaScript (ES6+), React, Next Js
+
+**Styling & UI:**  
+Tailwind CSS, Bootstrap, Figma, Shadcn ui
+
+**Tools & Workflow:**  
+Git, GitHub, Vite, Chrome DevTools  
+
+**Other:**  
+Responsive Design, Teamwork, Hardwork, Leadership
 
 ---
 
 ## 📂 Featured Projects  
-Here are some of the repositories I’ve worked on:
 
-| Project Name        | Description                                               | Tech Stack           |
-|---------------------|-----------------------------------------------------------|----------------------|
-| **Tomato**          | A modern todo-application with advanced UI features.      | React.js, TypeScript |
-| **Fasten**          | Public project focused on … *(add your description)*      | JavaScript           |
-| **Skywings**        | Web app deployed on Vercel: [skywings-app.vercel.app](https://skywings-app.vercel.app/) | HTML, CSS, JS        |
-| **Surfing**         | … *(add description)*                                     | JavaScript           |
-| **ChillPro-Service**| My first “real” full-stack project.                       | JavaScript           |
-| **Santorini**       | … *(add description)*                                     | JavaScript           |
-
----
-
-## 📫 How to Reach Me  
-- ✉️ Email: abdurahmonovabdulloh379@gmail.com  
-- 🌐 GitHub: [github.com/cxAbdulloh](https://github.com/cxAbdulloh)  
-- 🔗 LinkedIn: *(add your profile link if you have one)*  
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🧭 **Tomato** | Modern To-Do app with a clean UI and state management. | React.js, TypeScript |
+| ⚡ **Fasten** | *(Add short project description)* | JavaScript |
+| ✈️ **Skywings** | Web app deployed on Vercel → [skywings-app.vercel.app](https://skywings-app.vercel.app/) | HTML, CSS, JS |
+| 🌊 **Surfing** | *(Add short project description)* | JavaScript |
+| 🧰 **ChillPro-Service** | Full-stack web app prototype | JavaScript |
+| 🏝️ **Santorini** | *(Add short project description)* | JavaScript |
 
 ---
 
-## 📌 Let’s Connect  
-Feel free to check out my repositories, drop a star ⭐ if you like my work, and don’t hesitate to reach out if you’d like to collaborate or chat about frontend development!  
+## ☕ Coffee Function  
 
----
+```js
+function coffeeForAbdulloh() {
+  console.log("☕ Thanks for the coffee! You're awesome 😎");
+}
 
-© {new Date().getFullYear()} Abdulloh Abdurahmonov — All rights reserved.
+coffeeForAbdulloh();
