@@ -27,6 +27,8 @@ Currently focused on **React.js** projects and sharpening my **TypeScript** skil
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 ---
