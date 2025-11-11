@@ -28,9 +28,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/abdulloh" target="_blank">
-   
-  </a>
-</p>
+
+ [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/Abdulloh)
+
+
 
