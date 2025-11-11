@@ -30,16 +30,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/abdulloh" target="_blank">
-    <img 
-      src="https://cdn-icons-png.flaticon.com/512/924/924514.png" 
-      alt="Cappuccino" 
-      width="35" 
-      style="vertical-align: middle; margin-right: 8px;"
-    />
-    <img 
-      src="https://img.shields.io/badge/Buy%20me%20a%20coffee-fuchsia?style=for-the-badge&logo=buymeacoffee&logoColor=white" 
-      alt="Buy me a coffee"
-    />
+   
   </a>
 </p>
 
