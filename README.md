@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abdulloh;Frontend+Developer;React+%7C+Next.js+%7C+TypeScript" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdulloh Abdurahmonov</h1>  
 <h3 align="center">Frontend Developer (React.js)</h3>  
 
