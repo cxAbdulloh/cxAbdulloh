@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/51970fa2-c0c6-48b7-86e2-b56702437118" width="100%" />
+  <img src="https://github.com/user-attachments/assets/51970fa2-c0c6-48b7-86e2-b56702437118" width="100%" height="400px"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Abdulloh Abdurahmonov</h1>  
