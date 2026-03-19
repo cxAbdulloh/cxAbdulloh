@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Abdulloh Abdurahmonov</h1>  
-<h3 align="center">Frontend Developer (React.js)</h3>  
+<h3 align="center">Frontend Developer</h3>  
 
 ### 📫 Connect with me  
 <p align="center">
