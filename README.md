@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5ad49ab931d0d5966468e2ee/1678225574421-OQL9P2P8K4O40HCP2N2E/mario_setup_final_comp.gif" width="100%" style="max-height: 300px; object-fit: cover;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="max-height: 300px; object-fit: cover;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Abdulloh Abdurahmonov</h1>  
+<h1 align="center">Hi 👋, I'm Abdulloh</h1>  
 <h3 align="center">Frontend Developer</h3>  
 
 ### 📫 Connect with me  
